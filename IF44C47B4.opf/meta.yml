@@ -1,0 +1,31 @@
+id: IF44C47B4
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:17:54.826726'
+last_modified: '2022-05-30T18:17:54.826750'
+parser: null
+source_metadata:
+  title: Alak Zenkar Pema Ngödrup Rolwe Dorje
+  language: bo
+  description: 'Texts by and about Alak Zenkar Pema Ngödrup Rolwe Dorje (a lags gzan
+    dkar padma dngos grub rol pa''i rdo rje, 1881-1943), incarnation of Do Khyentse
+    Yeshe Dorje:'
+  volume:
+    fE25A:
+      title: A Prayer to Tārā
+      base_file: fE25A.txt
+      order: 1
+      parent: Prayers
+    f1B17:
+      title: A Synopsis of Guru Padmasambhava’s Life
+      base_file: f1B17.txt
+      order: 2
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
